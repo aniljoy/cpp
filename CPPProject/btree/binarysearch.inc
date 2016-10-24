@@ -1,0 +1,4 @@
+
+PROJECT_MODULES += BINARYSEARCH
+
+BINARYSEARCH_INCLUDES += $(ROOT)/binarysearch/include
